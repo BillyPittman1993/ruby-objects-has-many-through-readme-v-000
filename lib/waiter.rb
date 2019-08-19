@@ -24,5 +24,10 @@ end
    end 
  end 
  
+ def best_tipper(meal, customer, tip)
+   
+   
+ end
+ 
 
 end
